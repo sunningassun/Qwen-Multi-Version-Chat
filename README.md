@@ -2,14 +2,6 @@
 
 一个支持 Qwen1.5/2.5/3.0 多版本切换的交互式 Web 聊天演示工具，基于 Gradio 构建，简单易用，开箱即用。
 
-![image-20260323153337647](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20260323153337647.png)
-
-![image-20260323153350967](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20260323153350967.png)
-
-![image-20260323153404932](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20260323153404932.png)
-
-![image-20260323153416655](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20260323153416655.png)
-
 ## 📋 功能特点
 
 - ✅ 支持 Qwen1.5/2.5/3.0 多版本模型切换
