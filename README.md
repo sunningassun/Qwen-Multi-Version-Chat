@@ -107,7 +107,7 @@ DEFAULT_MODEL_PATHS = {
 #### 基本启动（GPU 模式）
 
 ```
-python chat_demo.py
+python mian.py
 ```
 
 #### CPU 模式启动（无 GPU 时使用）
