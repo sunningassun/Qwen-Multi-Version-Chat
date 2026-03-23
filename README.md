@@ -92,7 +92,7 @@ Qwen-Multi-Version-Chat/
 
 ### 1. 配置模型路径
 
-打开 `chat_demo.py` 文件，修改 `DEFAULT_MODEL_PATHS` 字典，指向你本地的模型文件路径：
+打开 `mian.py` 文件，修改 `DEFAULT_MODEL_PATHS` 字典，指向你本地的模型文件路径：
 
 ```
 DEFAULT_MODEL_PATHS = {
@@ -113,17 +113,17 @@ python chat_demo.py
 #### CPU 模式启动（无 GPU 时使用）
 
 ```
-python chat_demo.py --cpu-only
+python mian.py --cpu-only
 ```
 
 #### 高级启动选项
 
 ```
 # 公开访问（生成公网链接）+ 自动打开浏览器
-python chat_demo.py --share --inbrowser
+python mian.py --share --inbrowser
 
 # 指定端口和IP
-python chat_demo.py --server-port 8080 --server-name 0.0.0.0
+python mian.py --server-port 8080 --server-name 0.0.0.0
 ```
 
 ### 3. 界面操作
